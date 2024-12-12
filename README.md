@@ -1,5 +1,4 @@
-/*
-1️⃣ Desafio Classificador de nível de Herói
+# 1️⃣ Desafio Classificador de nível de Herói #
 
 **O Que deve ser utilizado**
 
@@ -25,4 +24,4 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 Ao final, deve-se exibir uma mensagem no seguinte formato:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
-*/
+
